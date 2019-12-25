@@ -1,0 +1,7 @@
+spring:
+  #数据源
+  datasource:
+    url: jdbc:mysql://localhost:3306/user??useUnicode=true&amp;characterEncoding=UTF-8
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
